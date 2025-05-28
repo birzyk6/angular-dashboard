@@ -1,9 +1,9 @@
-import { Component } from "@angular/core";
+import { Component } from '@angular/core';
 
 @Component({
-    selector: "app-dashboard",
-    imports: [],
-    template: ` <p>dashboard works!</p> `,
-    styles: ``,
+  selector: 'app-dashboard',
+  imports: [],
+  template: ` <p>dashboard works!</p> `,
+  styles: ``,
 })
 export class DashboardComponent {}
